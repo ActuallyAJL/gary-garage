@@ -3,3 +3,14 @@ C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.Gen
 C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.AssemblyInfoInputs.cache
 C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.AssemblyInfo.cs
 C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.csproj.CoreCompileInputs.cache
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\gary-garage.exe
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\gary-garage.deps.json
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\gary-garage.runtimeconfig.json
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\gary-garage.runtimeconfig.dev.json
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\gary-garage.dll
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\ref\gary-garage.dll
+C:\Users\zero3\workspace\nss\csharp\gary-garage\bin\Debug\net5.0\gary-garage.pdb
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.dll
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\ref\gary-garage.dll
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.pdb
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.genruntimeconfig.cache
