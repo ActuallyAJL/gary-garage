@@ -1,0 +1,5 @@
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.csproj.AssemblyReference.cache
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.AssemblyInfoInputs.cache
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.AssemblyInfo.cs
+C:\Users\zero3\workspace\nss\csharp\gary-garage\obj\Debug\net5.0\gary-garage.csproj.CoreCompileInputs.cache
